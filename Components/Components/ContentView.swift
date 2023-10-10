@@ -87,7 +87,7 @@ struct AirbnbSearchBar: View {
 
                     Text("Anywhere • Any week • Add guests")
                         .font(.caption)
-                        .foregroundColor(.gray)
+                        .foregroundColor(.black)
                         .fontWeight(.regular)
                         .font(.system(size: 8))
                         .lineLimit(1)
